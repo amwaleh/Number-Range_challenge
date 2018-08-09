@@ -1,3 +1,30 @@
+
+
+HOW TO RUN THIS PROJECT:
+
+you will need node on your machine :P
+
+
+install node packages by running
+
+`npm install`
+
+once the packages are installed run
+
+`npm run dev`
+
+
+Insert Numbers separated by space and click submit!!!!
+
+
+
+
+
+
+
+
+
+________________________________________
 It's difficult to spot what's missing in a long list of numbers if they are just listed one after the other. The idea is to organize the numbers into ranges.
 
 Write a script that does the following:
